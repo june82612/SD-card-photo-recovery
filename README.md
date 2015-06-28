@@ -1,2 +1,2 @@
 # SD-card-photo-recovery
-SD card photo recovery free
+SD card photo recovery free can be used to recover deleted formatted photos from memory card, SD card, microSD, SDHC, SDXC, SD mini, on Windows 8/8.1/7/Vista/XP computer, see this step by step <a href="http://www.asoftech.com/articles/sd-card-photo-recovery.html">SD card picture recovery guide</a> which helped me last time. The SD card photo recovery tool can undelete photos jpg jpeg png gif bmp tif tiff and raw image data from all SD card, including Sandisk, Kingston, Samsung, Transcend, Panasonic, Verbatim, PNY, Sony, Lexar, etc.
